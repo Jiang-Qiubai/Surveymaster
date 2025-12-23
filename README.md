@@ -1,4 +1,4 @@
-#项目概述
+# 项目概述
 
 这是一个基于STORM（Synthesis of Topic-Oriented Research Materials）框架的学术综述生成器，能够根据指定主题自动检索、分析并生成高质量的文献综述报告。
 
