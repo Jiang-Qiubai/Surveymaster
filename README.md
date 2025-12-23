@@ -4,7 +4,7 @@
 
 配置文件详解
 
-文件位置：projects/storm/run_storm_arxiv.py
+文件位置：run_storm_arxiv.py
 
 硬编码配置区域
 
